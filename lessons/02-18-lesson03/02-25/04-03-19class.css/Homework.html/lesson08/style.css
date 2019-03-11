@@ -1,0 +1,61 @@
+div{  
+  background-color: honeydew;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+}
+
+p{
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  font-size:  55px;
+  
+
+  
+  background-color: peru;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+}
+
+#my-id{
+  font-family: Brush Script MT, Brush Script Std, cursive; 
+  font-size: 55px;
+}
+
+.box{
+  margin-top: 50px;
+  font-size: 55px;
+  
+   
+}
+.box.blue{
+  color: rebeccapurple;
+ 
+}
+
+.box.large{
+  color: palegreen;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+/* > means just direct this paragraph*/
+article > p{
+  background-color: palegreen;
+  font-family: Arial, Helvetica, sans-serif;
+  color: firebrick;
+}
+div p{
+  color: rebeccapurple;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+div .box{
+  color: greenyellow;
+}
+
+/* spciefid state (hover)*/
+div p:hover{
+  color: forestgreen;
+  font-size: larger;
+}

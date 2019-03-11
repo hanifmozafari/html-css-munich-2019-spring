@@ -1,0 +1,34 @@
+body{
+    background-color: brown;
+padding: 20px;
+}
+
+#division01{
+    margin: 150px;
+    background-color: yellowgreen;
+    width: 100%
+    
+}
+
+#image1{
+    width: 600px;
+}
+
+#division02{
+    background-color: blue;
+    width: 100%;
+}
+
+img {
+    width: 300px;
+}
+
+h1 {
+    padding-left: 80px;
+    padding-top: 80px;
+padding-down: 100px;
+ }
+p{
+    padding-right: 50px;
+
+}

@@ -1,11 +1,12 @@
 body {
   background-color: teal;
   color: antiquewhite;
-  font-family: 'Sofia';
+  font-family: 'Varela Round', sans-serif;
 }
 
 h1 {
   color: yellowgreen;
+  font-family: 'Kanit', sans-serif;
 }
 
 img {
